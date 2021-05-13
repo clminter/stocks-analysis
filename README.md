@@ -7,7 +7,7 @@
 1. 'for loops', 'if-then' statements, 'indices', 'logical operators' and 'arrays' in order to analyze stock market data.
 2. visual, numeric and conditional cell formating for more appealing and emphatic output.
 3. a refactoring of the original code to measure performance between the two versions.
-## __Results__
+## **Results**
 ### Stock Analysis 2017 & 2018
 ![image](https://user-images.githubusercontent.com/81878169/118178594-c3e93000-b3f9-11eb-8e60-d281e9c15dd4.png)
 #### This analysis for 2017 shows that the selected stocks, with exception of one, had positive returns.
@@ -26,14 +26,28 @@
 
 #### In this example, conditional formatting for coloring cells that meet certain criteria is processed through an array and for loop.
 ### Refactoring:
-##### Original Code 2017
+### Original Code 2017
 ![image](https://user-images.githubusercontent.com/81878169/118180520-3d821d80-b3fc-11eb-9f32-bb9bb4006ee5.png)
 # vs.
-#### Refactored Code 2018
+### Refactored Code 2018
 ![image](https://user-images.githubusercontent.com/81878169/118180666-6acecb80-b3fc-11eb-951a-aac873a85d4c.png)
-##### Original Code 2018
+### Original Code 2018
 ![image](https://user-images.githubusercontent.com/81878169/118180910-b5e8de80-b3fc-11eb-9cca-c409f16a07be.png)
 
 # vs.
-##### Refactored Code 2018
+### Refactored Code 2018
 ![image](https://user-images.githubusercontent.com/81878169/118180997-d87af780-b3fc-11eb-92d5-292f6db00217.png)
+## Summary
+### Advantages of Refactoring Code
+##### In the results above, it is clearly shown in this case that there is a 5X improvement in the elapsed time to run the analysis.
+##### In the screen shots below showing both sections of code, the refactored code is easier to understand and therefore easier to maintain or modify with use of the the tickerIndex.
+##### Another advantage of refactoring is that it allows for cleaner, easier scalability.
+##### Original Code:
+![image](https://user-images.githubusercontent.com/81878169/118184424-f4809800-b400-11eb-8ea4-ca2135cb73ef.png)
+
+##### Refactored Code
+![image](https://user-images.githubusercontent.com/81878169/118183529-d36b7780-b3ff-11eb-970a-e8bf531a87c1.png)
+
+### Disadvantages of Refactoring Code
+#####
+
