@@ -49,5 +49,5 @@
 ![image](https://user-images.githubusercontent.com/81878169/118183529-d36b7780-b3ff-11eb-970a-e8bf531a87c1.png)
 
 ### Disadvantages of Refactoring Code
-#####
+##### In the particular case of this project, where the data is limited in scope, the time required to refactor far outweighs the benefit of faster run times. As shown above, only mere split seconds. It is also possible to introduce unintended bugs into already working code, which may also significantly increase the time required to refactor.
 
