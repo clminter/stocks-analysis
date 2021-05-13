@@ -1,5 +1,7 @@
 # **Stock Analysis: VBA Code Performance**
 ## Project Overview
+#### For selected stocks over a two year period, the original code analyzed total volume of trading and return of each stock for each year. This initial project was then expanded to include the possibility to analyze ALL stocks over this period. This required refactoring of the code and testing the time elapsed between the original code and the refactored code to determine that the refactoring indeed created a more efficient model.
+## **Challenges**
 #### Project focuses on developing the coding skills necessary to create: 
 1. 'for loops', 'if-then' statements, 'indices', 'logical operators' and 'arrays' in order to analyze stock market data.
 2. visual, numeric and conditional cell formating for more appealing and emphatic output.
