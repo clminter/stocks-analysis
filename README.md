@@ -15,7 +15,7 @@
 ![image](https://user-images.githubusercontent.com/81878169/118178761-0579db00-b3fa-11eb-8fa9-862d3a75a0f3.png)
 #### Conversely, this analysis of the selected stocks in 2018 shows negative returns for all but two of the stocks.
 
-### Coding Development
+### Coding Development for Refactoring
 ### For loop and array example:
 ![image](https://user-images.githubusercontent.com/81878169/118161207-f2104500-b3e4-11eb-982b-e7195eed9a8d.png)
 
@@ -25,3 +25,15 @@
 ![image](https://user-images.githubusercontent.com/81878169/118163091-300e6880-b3e7-11eb-8fa1-bfca3902ba01.png)
 
 #### In this example, conditional formatting for coloring cells that meet certain criteria is processed through an array and for loop.
+### Refactoring:
+##### Original Code 2017
+![image](https://user-images.githubusercontent.com/81878169/118180520-3d821d80-b3fc-11eb-9f32-bb9bb4006ee5.png)
+# vs.
+#### Refactored Code 2018
+![image](https://user-images.githubusercontent.com/81878169/118180666-6acecb80-b3fc-11eb-951a-aac873a85d4c.png)
+##### Original Code 2018
+![image](https://user-images.githubusercontent.com/81878169/118180910-b5e8de80-b3fc-11eb-9cca-c409f16a07be.png)
+
+# vs.
+##### Refactored Code 2018
+![image](https://user-images.githubusercontent.com/81878169/118180997-d87af780-b3fc-11eb-92d5-292f6db00217.png)
